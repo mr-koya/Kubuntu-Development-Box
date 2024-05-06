@@ -9,6 +9,6 @@ sudo apt install kwin-wayland
 Add a Android container.
 https://docs.waydro.id/usage/install-on-desktops
 
-sudo apt install curl ca-certificates -y
+sudo apt install curl ca-certificates -y  
 sudo apt install waydroid -y
 
