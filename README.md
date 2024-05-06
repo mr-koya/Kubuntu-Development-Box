@@ -7,7 +7,7 @@ Including Android, Amazon Web Services, Flutter and basically anthing you like.
 sudo apt install kwin-wayland
 
 Add a Android container.
-![Install Waydroid](https://docs.waydro.id/usage/install-on-desktops)
+https://docs.waydro.id/usage/install-on-desktops
 
 sudo apt install curl ca-certificates -y
 sudo apt install waydroid -y
